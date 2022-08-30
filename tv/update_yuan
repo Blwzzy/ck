@@ -139,15 +139,15 @@
             "url": "http://mtw.so/6cfhxt",
             "name": "suanjin线路",
             "time": "2022-08-26 02:00:00"
-        },
+        }
         // {
         //     "url": "https://gitea.com/videojx/zyk/raw/branch/main/xuexi.json",
         //     "name": "学习平板"
         // },
-        {
-            "url": "http://mtv.weetai.cn/mtv/260.txt",
-            "name": "260.txt"
-        }
+        //{
+        //    "url": "http://mtv.weetai.cn/mtv/260.txt",
+        //    "name": "260.txt"
+        //}
         // {
         //     "url": "https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC.json",
         //     "name": "XC.json"
@@ -178,10 +178,10 @@
         // }
     ],
     "vip": [
-        {
-            "url": "http://tvmvip110.live/down.php/8ee484fd7b6d3a8eb9b0005f43d68175.txt",
-            "name": "68175.txt"
-        },
+        //{
+        //    "url": "http://tvmvip110.live/down.php/8ee484fd7b6d3a8eb9b0005f43d68175.txt",
+        //    "name": "68175.txt"
+        //},
         {
             "url": "http://152.136.125.181:81/MM/dianbos/yeshijieC.json",
             "name": "yeshijieC.json"

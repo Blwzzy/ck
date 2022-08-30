@@ -1,6 +1,6 @@
 {
   "versionCode": 6,
-  "versionName": "1.0.54",
+  "versionName": "1.0.5",
   "downUrl": "https://gitea.com/apkcore/apk_release/raw/branch/main/releaseV1/tvbox_1.0.5.apk",
   "description": "优先加载本地jar",
   "md5":"dfe35ada7f0006c5f969f9700ec4249f"

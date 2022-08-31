@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
+  "versionCode": 7,
   "versionName": "1.0.5",
   "downUrl": "https://gitea.com/apkcore/apk_release/raw/branch/main/releaseV1/tvbox_1.0.5.apk",
-  "description": "优化加载速度",
-  "md5":"dfe35ada7f0006c5f969f9700ec4249f"
+  "description": "优化加载速度，优化聚合搜索",
+  "md5":"1bc427afc4e25cc5e542578a088fc011"
 }

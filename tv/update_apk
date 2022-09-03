@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.0.6",
-  "downUrl": "https://gitea.com/apkcore/apk_release/raw/branch/main/releaseV1/tvbox_1.0.6.apk",
-  "description": "修改切换源，合并嗅探失败",
-  "md5":"c673e61f995c7819a6de13197751e9e6"
+  "versionCode": 9,
+  "versionName": "1.0.7",
+  "downUrl": "https://gitea.com/apkcore/apk_release/raw/branch/main/releaseV1/tvbox_1.0.7.apk",
+  "description": "升级IJK库",
+  "md5":"33b20fdad2983e7db6dd1555190adf82"
 }

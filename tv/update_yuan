@@ -17,6 +17,10 @@
             "name": "BD线路"
         },
         {
+            "url": "https://www.fastmock.site/mock/1d52adb084c96725525077ce7380de4c/tv/bd",
+            "name": "py专用线路"
+        },
+        {
             "url": "https://神器每日推送.tk/pz.json",
             "name": "神器",
             "time": "2022-08-30 12:17:30"

@@ -2,15 +2,7 @@
     "urls": [
         {
             "url": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/tv.json",
-            "name": "xyyx线路001"
-        },
-        {
-            "url": "https://gitea.com/xyyx/TVBox/raw/branch/main/tv.json",
-            "name": "xyyx线路002"
-        },
-        {
-            "url": "https://gitee.com/htlth/tv/raw/master/tv.json",
-            "name": "xyyx线路003"
+            "name": "xyyx线路"
         },
         {
             "url": "https://www.fastmock.site/mock/1d52adb084c96725525077ce7380de4c/tv/bd",
